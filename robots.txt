@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://hammergambad.github.io/hammergambad_github_io_zp533_1.txt
+Sitemap: https://hammergambad.github.io/hammergambad_github_io_zp533_15.txt
+Sitemap: https://hammergambad.github.io/hammergambad_github_io_zp533_20.txt
+Sitemap: https://hammergambad.github.io/hammergambad_github_io_zp533_26.txt
+Sitemap: https://hammergambad.github.io/hammergambad_github_io_zp533_5.txt
